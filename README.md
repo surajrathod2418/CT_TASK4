@@ -27,3 +27,8 @@ Interaction and communication tools are thoughtfully integrated into the UI. Dis
 Overall, the E-Learning Platform UI is built around the learner’s needs. By combining simplicity, accessibility, responsiveness, and visual clarity, the interface creates an engaging digital space where learning feels enjoyable and productive. A user-friendly UI not only improves usability but also enhances motivation, making online education more effective and human-centered.
 
 *OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/93459a74-c3e4-4c8c-8132-d241a0457f30" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f6f5f380-e9ce-4328-9cde-a1cb5eddb0bf" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6701beb8-bde9-44c3-92ad-e3b79325abf8" />
